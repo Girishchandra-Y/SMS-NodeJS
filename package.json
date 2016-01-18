@@ -1,7 +1,7 @@
 {
   "name": "POC-SMS",
   "version": "0.0.0",
-  "description": "Transactional sms using sms horizon",
+  "description": "This is PoC to Send Transactional sms using sms horizon.",
   "main": "app.js",
   "dependencies": {
     "consolidate": "~0.9.1",
