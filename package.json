@@ -1,0 +1,21 @@
+{
+  "name": "POC-SMS",
+  "version": "0.0.0",
+  "description": "Transactional sms using sms horizon",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "~0.9.1",
+    "express": "^3.x",
+    "swig": "~0.14.0",
+    "validator": "~1.1.3",
+	"request":"*.*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Girishchandra Y",
+  "private": true
+}
