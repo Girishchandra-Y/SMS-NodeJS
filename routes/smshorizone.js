@@ -10,10 +10,10 @@ var request = require('request');
 
 exports.sendsms = function(req, res) {
 
-var user = "Girishsms";
+var user = "XXXXXXX";
 
 // Replace with your API KEY (We have sent API KEY on activation email, also available on panel)
-var apikey = "C2DXs6ypoguArEOo1Cnk";
+var apikey = "XXXXXXXXXX";
 
 // Replace with the destination mobile Number to which you want to send sms
 var mobile = req.body.mobile;
